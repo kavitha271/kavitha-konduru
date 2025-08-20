@@ -1,4 +1,4 @@
-🚀 Project  - SaaS Product Infrastructure (SAP + ML Integration on GCP & AWS)
+🚀 Project  - **SaaS Product Infrastructure (SAP + ML Integration on GCP & AWS)**
 
 I worked on setting up multi-cloud infrastructure to support a SaaS product that connected SAP compliance data with ML-based classification models. The project required building scalable, secure, and automated infra across GCP and AWS while enabling cross-team collaboration.
 
