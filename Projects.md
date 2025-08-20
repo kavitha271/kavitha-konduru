@@ -23,12 +23,15 @@ Wrote documentation for onboarding, CI/CD flows, and infra usage, which reduced 
 ⚡ Challenges & How I Solved Them
 
 Challenge: SAP systems had strict compliance and network isolation.
+
 ✅ Solution: Implemented VPC Service Controls + secure peering between SAP and ML workloads.
 
 Challenge: Different teams (ML vs SAP) had varied deployment needs.
+
 ✅ Solution: Built modular Terraform + GitHub CI/CD submodules and self-service playbooks, so teams deployed independently.
 
 Challenge: Monitoring ML workloads and SAP jobs was fragmented.
+
 ✅ Solution: Unified observability dashboards across systems with Grafana and Cloud Monitoring.
 
 🌟 Key Outcomes
