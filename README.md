@@ -2,8 +2,6 @@
 
 🚀 DevOps & Cloud Engineer with 10+ years of IT experience helping teams build scalable, secure, and automated infrastructure.
 
-🌍 Open to relocation: Germany, Netherlands, Sweden, Luxembourg, Australia , Latvia
-
 🔧 Modernization projects: CI/CD (GitHub Actions, Azure DevOps), SaaS product infra, Anthos multi-cloud
 
 ☁️ Cloud: AWS | GCP | Azure
